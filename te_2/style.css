@@ -1,0 +1,17 @@
+.fit-image {
+    width: 550px;
+}
+.shadowbox {
+  width: 20em;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 30px;
+  background-image: linear-gradient(180deg, #fff, #ddd 40%, #ccc);
+}
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
