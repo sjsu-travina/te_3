@@ -1,4 +1,16 @@
+/* insert text fonts here - import the link to font */
+import url();
+
 html, body {
+
+  /* font-family: '', ; <- place this in either section with name type for the text to be that font*/
+  /* nackground-color: black; <- insert this to change color of background */
+  /* to change text color -> example a:visited {color: #;} */
+  /* text-align: center; <- to center text in section  */
+  /* use margin- to menuvor text -> example: margin-left 50px; margin-right 50 px; maax-with 800px; */
+  /* body{}; h1{}; p{}; a{};*/
+
+  /* more tools ->  developers tools */
   margin: 0;
   padding: 0;
 }
